@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 1.03h | 1 |
+| Week 1 | Tier 1 | 0.17h | 1 |
 
 ## Contents
 
@@ -20,8 +20,8 @@
 
 ### 2026-10-06 — Work session
 
-**1.03h**
+**0.17h**
+
+Work session
 
 [Timelapse](https://lookout.hackclub.com/api/media/1c2b90a5-321d-42ab-ab27-bef9618c35b9/video.mp4)
-
-[Timelapse](https://lookout.hackclub.com/api/media/2656145e-4384-4b3a-89b8-d8758f73bbed/video.mp4)
